@@ -47,19 +47,24 @@ NOTE: the terminal typically doesn't display any characters as you type your pas
 - ***Once you've entered your password, the terminal should display something similar to this image:***
 
 
+![image](https://user-images.githubusercontent.com/78113615/211976046-f647b052-b280-4ac7-9268-aec54f826d27.png)
+
+OR: if you're not using `bash`, it will look like this:
+
 ![image](https://user-images.githubusercontent.com/78113615/211948364-9298cd2c-7b1f-4b02-8ee2-7d3fd0c0cb82.png)
 
 
 > Congrats! You're now connected to the remote server! There's just one more step...
 
+
 ### STEP 3: Trying Some Commands
 
 Finally, feel free to try entering some of these commands at the command line:
+![image](https://user-images.githubusercontent.com/78113615/211976650-09a2bef6-836b-4a53-9b1c-93436784b92a.png)
+
+OR: if you're not using `bash`:
 
 ![image](https://user-images.githubusercontent.com/78113615/211949180-50ebd59d-79e9-4ab3-995f-70febbf887dd.png)
 
 
-
-
-
-
+# Wow, you're all done!
