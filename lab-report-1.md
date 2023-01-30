@@ -9,7 +9,7 @@ __Background Info:__ Visual Studio Code is a text editor made by Microsoft, and 
 2. *Now that VScode is installed* on your machine, go ahead and open it up. 
 - With the exception of some minor differences like the theme, your window should look something like this:
 
-![First VScode screenshot](/blank-vscode-screenshot.jpg "First VScode screenshot")
+![First VScode screenshot](./blank-vscode-screenshot.jpg "First VScode screenshot")
     
 
 ### STEP 2: Remotely Connecting
